@@ -1,3 +1,3 @@
 export const header = () => {
-  return <div>header cambio desde la rama add_tailwindcss</div>;
+  return <div>header con cambios de la rama add_tailwindcss_2</div>;
 };
